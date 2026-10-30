@@ -1,0 +1,22 @@
+{
+  "name": "lossless-scaling-profile-manager",
+  "displayName": "Lossless Scaling Profile Manager",
+  "programType": "profile-manager",
+  "repositoryContents": "Project documentation and artwork",
+  "downloadPage": "https://meteoric-rook-835.github.io/",
+  "descriptionSource": "Project owner",
+  "sections": [
+    "Scaling modes",
+    "Display profiles",
+    "Comparison notes"
+  ],
+  "topics": [
+    "lossless-scaling-profile-manager",
+    "lossless-scaling-tools",
+    "lossless-scaling-menu",
+    "lossless-scaling-settings",
+    "lossless-scaling-configs",
+    "lossless-scaling-scaling-modes",
+    "lossless-scaling-display-profiles"
+  ]
+}
